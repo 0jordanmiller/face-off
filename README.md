@@ -24,3 +24,5 @@ Then open index.html
 * Jordan Miller
 * Richard Merino
 
+![Screenshot](https://i.imgur.com/1fBxGTT.png)
+
