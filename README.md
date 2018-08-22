@@ -1,6 +1,6 @@
 # Faceoff
 
-Faceoff is a game where two players each submit a photo. That photo is then evaluated by the Face++ API, an application that analyzes faces and outputs several data points, including human emotions (happiness, anger, sadness, etc.). The players agree on an emotion to analyze, and whichever photo Face++ determines to hold a higher percentage of wins.
+Faceoff is a game of emotions. Each player submits a photo of a person's face. Their photos are then evaluated by the Face++ API, an application that analyzes faces and outputs several data points, including human emotions (happiness, anger, sadness, etc.). The players agree on an emotion to analyze, and whichever photo Face++ determines to hold a higher percentage of wins.
 
 ## Getting Started
 
